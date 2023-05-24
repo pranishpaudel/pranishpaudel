@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paudelpranish&label=Profile%20views&color=0e75b6&style=flat" alt="paudelpranish" /> </p>
 
-- 🌱 I’m currently learning **Python Bootcamp**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **python, php, web automation, telegram bot making, web scrapping**
 
@@ -25,6 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paudelpranish&show_icons=true&locale=en&layout=compact" alt="paudelpranish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paudelpranish&show_icons=true&locale=en" alt="paudelpranish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paudelpranish&" alt="paudelpranish" /></p>
