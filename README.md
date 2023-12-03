@@ -13,7 +13,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="" href="https://www.linkedin.com/in/pranishpoudel/">Pranish Poudel</a></b>
+        <samp>&gt; Welcome to 
+                <b><a target="" href="https://www.linkedin.com/in/pranishpoudel/">Pranish Poudel</a>'s Profile</b>
         </samp>
 </h3>
