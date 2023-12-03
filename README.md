@@ -43,7 +43,7 @@
   </a>
 </p>
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranishpaudel&theme=aura&hide_border=true" width="500"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranishpaudel&theme=aura)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranishpaudel&theme=aura)
