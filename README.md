@@ -1,6 +1,5 @@
-
 <p align="center">
-  <a href="https://github.com/pranishpaudel"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7370F&random=false&width=435&lines=Code+Artisan+Explorer;Django+BackEnd+Developer;Studying+Bachelors+of+Software+Engineering)](https://git.io/typing-svg)"></a>
+  <a href="https://github.com/pranishpaudel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7370F&random=false&width=435&lines=Code+Artisan+Explorer;Django+BackEnd+Developer;Studying+Bachelors+of+Software+Engineering"></a>
 </p>
 
 
