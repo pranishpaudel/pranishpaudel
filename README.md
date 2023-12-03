@@ -18,7 +18,9 @@
         </samp>
 </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yu74geky2bji4zecivl6xrfdju&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=141f14)](https://spotify-github-profile.vercel.app/api/view?uid=31yu74geky2bji4zecivl6xrfdju&redirect=true)
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/pranishpoudel/" target="_blank">
