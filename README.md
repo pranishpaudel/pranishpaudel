@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/pranishpaudel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7370F&random=false&width=435&lines=Code+Artisan+Explorer;Django+BackEnd+Developer;Studying+Bachelors+of+Software+Engineering"></a>
+  <a href="https://github.com/pranishpaudel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1422F7&random=false&width=435&lines=Code+Artisan+Explorer;Django+BackEnd+Developer;Studying+Bachelors+of+Software+Engineering"></a>
 </p>
 
 
