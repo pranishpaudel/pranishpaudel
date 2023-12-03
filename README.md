@@ -41,3 +41,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,aws,python,azure,django,flask,heroku,arduino,redis,photoshop,wordpress,mysql,replit,github,discord,php&perline=50" />
   </a>
 </p>
+
+
+
+<p align="center">
+  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank">
+    <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" alt="Spotify Now Playing" width="350"/>
+  </a>
+</p>
