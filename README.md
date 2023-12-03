@@ -47,3 +47,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranishpaudel&theme=aura)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranishpaudel&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranishpaudel&theme=aura)
