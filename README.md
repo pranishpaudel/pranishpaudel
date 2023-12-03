@@ -45,10 +45,12 @@
 
 
 <!-- Profile Details Card -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranishpaudel&theme=aura" alt="Profile Details" width="800" height="400">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranishpaudel&theme=aura" alt="Profile Details" height="500">
+
+<!-- Stats Card -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranishpaudel&theme=aura" alt="Stats" height="400">
 
 <!-- Most Commit Language Card -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranishpaudel&theme=aura" alt="Most Commit Language" width="800" height="400">
 
-<!-- Stats Card -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranishpaudel&theme=aura" alt="Stats" width="800" height="400">
+
