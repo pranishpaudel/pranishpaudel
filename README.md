@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pranishpaudel"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7370F&random=false&width=435&lines=Code+Artisan+Explorer;Django+BackEnd+Developer;Studying+Bachelors+of+Software+Engineering)](https://git.io/typing-svg)"></a>
 </p>
 
 
