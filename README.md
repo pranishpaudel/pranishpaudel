@@ -35,7 +35,7 @@
   </a> 
 </p>
 <br />
-##Technology Stack
+<h2>Technology Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,aws,python,azure,django,flask,heroku,arduino,redis,photoshop,wordpress,mysql,replit,github,discord,php&perline=50" />
