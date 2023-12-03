@@ -43,9 +43,4 @@
 </p>
 
 
-
-<p align="center">
-  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank">
-    <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" alt="Spotify Now Playing" width="350"/>
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=aura)
