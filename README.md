@@ -38,6 +38,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,aws,python,azure,django,flask,heroku,arduino,redis,photoshop,wordpress,mysql,replit,github,discord,php&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,aws,python,azure,django,flask,heroku,arduino,redis,photoshop,wordpress,mysql,replit,github,discord,php&perline=50" />
   </a>
 </p>
