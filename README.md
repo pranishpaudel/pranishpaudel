@@ -18,7 +18,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018c0c0e-e589-47b3-9158-1cc4df2a8100.svg")](https://wakatime.com/@018c0c0e-e589-47b3-9158-1cc4df2a8100)
+[![wakatime](https://wakatime.com/badge/user/018c0c0e-e589-47b3-9158-1cc4df2a8100.svg)](https://wakatime.com/@018c0c0e-e589-47b3-9158-1cc4df2a8100)
 
 <!-- Intro  -->
 <h3 align="center">
