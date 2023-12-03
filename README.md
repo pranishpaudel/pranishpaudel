@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/pranishpaudel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Pranish's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranishpaudel&theme=radical&border=7F3FBF&background=0D1117" alt="Pranish's GitHub streak"/>
   </a>
 </p>
 
