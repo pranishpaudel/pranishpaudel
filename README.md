@@ -1,75 +1,185 @@
+---
 
-<p align="center">
-  <a href="https://github.com/pranishpaudel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6BF70F&random=false&width=435&lines=Code+Artisan+Explorer;Django+Developer;Studying+Software+Engineering"></a>
+
+
+<h1 align="center"  style="color:white;">Dummy Name aka Dummy Username</h1>
+
+---
+<h1 align="center"  style="color:white;">📈 As Usual Some Stats! 📈</h1>
+
+<p align="center" >
+  <a target="_blank" href="">
+  <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api?username=username&show_icons=true&theme=dark&layout=compact&count_private=true" />
+  </a>
+</p>
+<p align="center" >
+  <a target="_blank" href="https://github.com/d4rk-lucif3r/github-readme-stats">
+  <img  src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/top-langs/?username=username&langs_count=100&layout=compact&theme=dark&custom_title=User%27s%20Most%20Used%20Languages&card_width=444&count_private=true" />
+  </a>
+</p>
+
+<p align="center" >
+  <a target="_blank" href="https://github.com/d4rk-lucif3r">
+  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=darkhub&no-bg=true&column=3&margin-w=10&margin-h=10&title=MultiLanguage,Commit,Issues,Stars,Repositories,PullRequest," />
+  </a>
 </p>
 
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=pranishpaudel&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" />
-</a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018c0c0e-e589-47b3-9158-1cc4df2a8100.svg)](https://wakatime.com/@018c0c0e-e589-47b3-9158-1cc4df2a8100)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Welcome to 
-                <b><a target="" href="https://www.linkedin.com/in/pranishpoudel/">Pranish Poudel</a>'s Profile</b>
-        </samp>
-</h3>
+---
 
 
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<h1 align="center"  style="color:white;" >👨‍💻 Whoami 👨‍💻</h1>
+
+<div align="center">
+👋Hola! Dummy Name here.<br>
+Learner, Tinkerer and Designer<br>
+ </br>
+</div>
+<table align='center'>
+  <thead>
+    <tr>
+      <th>🎵 Now Playing 🎵</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://d4rk-lucif3r.vercel.app/now-playing?open"><img src="https://novatorem-d4rk-lucif3r.vercel.app/api/spotify" width="540" height="94"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+<h1 align="center"  style="color:white;">📫 Can found me on 📫</h1>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=DXCd7Moy3to&list=RDDXCd7Moy3to&start_radio=1"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
-
-<p align="center">
- <a href="https://www.linkedin.com/in/pranishpoudel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/pdlpranish" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/pranuisop" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://www.facebook.com/pranish2061" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+  <a target="_blank"href=""><img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href=""><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
+</br>
+
+---
+
+
+<h1 align="center"  style="color:white;">💼 Working with 💼</h1>
+</br>
+<h2 align="center"  style="color:white;">📙 Languages 📙</h2>
+
+<p align="center">
+  <a target="_blank"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnu-bash" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=Dart" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Qml-black?style=for-the-badge&logo=Qt" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=Html5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=Markdown" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
+ </br>
+ 
+<h2 align="center"  style="color:white;">🤖 Tech/Frameworks 🤖</h2>
+<p align="center">
+  <a target="_blank"><img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=PyTorch" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-OpenCV-black?style=for-the-badge&logo=openCV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Qt-black?style=for-the-badge&logo=openCV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</br>
+
+<h2 align="center"  style="color:white;">💻 Operating Systems 💻</h2>
+<p align="center">
+  <a target="_blank"><img src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=Apple" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=Debian" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=Fedora" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-CentOS-black?style=for-the-badge&logo=CentOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</br>
+
+<h2 align="center"  style="color:white;">🛠️ Tools 🛠️</h2>
+<p align="center">
+  <a target="_blank"><img src="https://img.shields.io/badge/-VS-black?style=for-the-badge&logo=visual-studio-code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-QT Design Studio-black?style=for-the-badge&logo=QT" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-QT Creator-black?style=for-the-badge&logo=QT" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</br>
+
+<h2 align="center"  style="color:white;">📚 Learning About 📚</h2>
+<p align="center">
+  <a target="_blank"><img src="https://img.shields.io/badge/-CircleCi-black?style=for-the-badge&logo=circleci" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/Github Actions-black?style=for-the-badge&logo=github-actions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Ethical Hacking-black?style=for-the-badge&logo=shell" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-App Development-black?style=for-the-badge&logo=android" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</br>
+
+---
+<h2 align="center"  style="color:white;">🚧 Ongoing Projects 🚧</h2>
+
 <br />
-<h2>Technology Stack</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,aws,python,azure,django,flask,heroku,arduino,redis,photoshop,wordpress,mysql,replit,github,discord,php&perline=50" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/pranishpaudel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranishpaudel&theme=radical&border=7F3FBF&background=0D1117" alt="Pranish's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pranishpaudel">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranishpaudel&theme=radical" alt="Pranish's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/pranishpaudel"><img alt="Pranish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pranishpaudel&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/pranishpaudel"><img alt="Pranish's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pranishpaudel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Pranish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranishpaudel&custom_title=Pranish%20Poudel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-![](https://activity-graph.herokuapp.com/graph?username=pranishpaudel&custom_title=Pranish%27s%20Contribution%20Graph&theme=react-dark)
+<table align = 'center' cellspacing="0" cellpadding="0" border="0">
+    <tr height ='140px'>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+    </tr>
+    <tr height ='140px'>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+    </tr>
+   <tr height ='140px'>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+    </tr>
+     <tr height ='140px'>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <a href="<GitHub Project URL>">
+            <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/pin/?username=username&repo=repo_name&theme=dark" alt="" />
+          </a>
+        </td>
+    </tr>
+</table>
 
