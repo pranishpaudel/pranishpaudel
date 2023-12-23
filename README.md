@@ -9,18 +9,18 @@
 
 <p align="center" >
   <a target="_blank" href="">
-  <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api?username=username&show_icons=true&theme=dark&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api?username=pranishpaudel&show_icons=true&theme=dark&layout=compact&count_private=true" />
   </a>
 </p>
 <p align="center" >
   <a target="_blank" href="https://github.com/d4rk-lucif3r/github-readme-stats">
-  <img  src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/top-langs/?username=username&langs_count=100&layout=compact&theme=dark&custom_title=User%27s%20Most%20Used%20Languages&card_width=444&count_private=true" />
+  <img  src="https://github-readme-stats.d4rk-lucif3r.vercel.app/api/top-langs/?username=pranishpaudel&langs_count=100&layout=compact&theme=dark&custom_title=User%27s%20Most%20Used%20Languages&card_width=444&count_private=true" />
   </a>
 </p>
 
 <p align="center" >
   <a target="_blank" href="https://github.com/d4rk-lucif3r">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=darkhub&no-bg=true&column=3&margin-w=10&margin-h=10&title=MultiLanguage,Commit,Issues,Stars,Repositories,PullRequest," />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranishpaudel&theme=darkhub&no-bg=true&column=3&margin-w=10&margin-h=10&title=MultiLanguage,Commit,Issues,Stars,Repositories,PullRequest," />
   </a>
 </p>
 
