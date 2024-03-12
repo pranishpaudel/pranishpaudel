@@ -44,7 +44,9 @@
 <h2>Technology Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=html,css,bootstrap,aws,python,azure,django,flask,heroku,arduino,redis,photoshop,wordpress,mysql,replit,github,discord,php&perline=50]" />
+
+![](https://skillicons.dev/icons?i=arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers&perline=20) 
+
   </a>
 </p>
 
