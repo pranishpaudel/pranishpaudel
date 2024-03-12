@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/pranishpaudel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6BF70F&random=false&width=435&lines=Code+Artisan+Explorer;Django+Developer;Studying+Software+Engineering"></a>
+  <a href="https://github.com/pranishpaudel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4736F7&random=false&width=435&lines=Full+Stack+NextJs+Developer;Student+of+Software+Engineering"></a>
 </p>
 
 
