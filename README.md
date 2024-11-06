@@ -42,7 +42,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,azure,bots,express,django,nextjs,selenium,git,redis,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers,kafka,mysql,flask,aws&perline=20) 
+![](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgresql,redis,kafka,git,docker,aws,flask,typescript,prisma,selenium,workers,tailwind,vercel&perline=20) 
 
   </a>
 </p>
